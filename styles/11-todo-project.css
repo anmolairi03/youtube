@@ -1,0 +1,41 @@
+
+body{
+    font-family:arial;
+}
+
+.add{
+    height:40px;
+    padding:10px 10px;
+    font-size: 15px;
+    background-color: rgb(7, 145, 7);
+    color:white;
+    width:100px;
+    border:none;
+}
+
+.delete{
+    height:40px;
+    width:100px;
+    color:white;
+    border:none;
+    background-color: rgb(193, 13, 13);
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;;
+}
+
+.js-print,
+.js-input{
+    display:grid;
+    grid-template-columns: 200px 150px 100px;
+    column-gap: 10px;
+    row-gap: 10px;
+    align-items: center;
+}
+.js-input{
+    margin-bottom: 10px;
+    align-items: stretch;
+}
+.js-name-input{
+    padding-left: 10px;
+}

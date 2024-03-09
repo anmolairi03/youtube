@@ -1,0 +1,47 @@
+.title{
+font-family: Arial;
+font-size:30px;
+font-weight: bolder;
+font-style: oblique;
+}
+.start{
+    background-color: rgb(13, 214, 13);
+    color:white;
+    width:80px;
+    height:40px;
+    border:none;
+    border-radius: 50px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.stop{
+    background-color: rgb(182, 179, 179);
+    width:80px;
+    height:40px;
+    border-radius: 50px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.reset{
+    background-color: rgb(13, 214, 13);
+    color:white;
+    width:80px;
+    height:40px;
+    border:none;
+    border-radius: 50px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.js-time{
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+.cs-Stop-Watch{
+    border: solid;
+    padding:100px;
+    border-radius: 1000px;
+    border-width: 10px;
+    display: inline-block;
+}
